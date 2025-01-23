@@ -11,3 +11,6 @@ Turno: Nocturno
 1.-jdk21 
 
 2.-intellij Community version 3.1
+
+## Reglas
+sin reglas
